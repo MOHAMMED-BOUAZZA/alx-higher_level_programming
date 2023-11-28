@@ -1,3 +1,4 @@
-#!/usr/bi#!/usr/bin/python3
+#!/usr/bin/python3
 number = 3.14159
-# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
+formatted_number = f"{number:.2f}"
+print("Float:", formatted_number)
