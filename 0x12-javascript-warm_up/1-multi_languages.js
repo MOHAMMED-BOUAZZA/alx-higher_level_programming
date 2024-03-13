@@ -1,4 +1,11 @@
 #!/usr/bin/node
-// It prints 3 lines
 
-console.log('C is fun\nPython is cool\nJavascript is amazing');
+// This line specifies the path to the interpreter for the script.
+
+console.log('C is fun');
+// This line outputs the string 'C is fun' to the console.
+
+console.log('Python is cool');
+// This line outputs the string 'Python is cool' to the console.
+
+console.log('JavaScript is amazing');
